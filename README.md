@@ -5,3 +5,5 @@ Proyecto realizado con un inventario en terminal window
 
 ## Desarrollo web - React
 Tienda un line con carrito
+
+![Captura del Proyecto] 
